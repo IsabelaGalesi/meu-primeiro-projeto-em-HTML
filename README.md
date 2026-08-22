@@ -1,4 +1,4 @@
-## Meu Primeiro Projeto em JavaScript
+##Meu Primeiro Projeto em JavaScript
 
 ## Sobre o projeto
 
@@ -6,7 +6,7 @@ Este é um projeto acadêmico desenvolvido como introdução à programação em
 
 O projeto foi desenvolvido e finalizado por mim, em casa, como forma de praticar os conteúdos estudados e explorar, de maneira independente, os primeiros conceitos da linguagem.
 
-## Tecnologias utilizadas
+## Technologies used
 
 - HTML
 - CSS
@@ -18,7 +18,8 @@ O principal objetivo foi praticar e compreender conceitos iniciais de JavaScript
 
 Este projeto representa uma das minhas primeiras experiências com a linguagem e faz parte do meu processo de aprendizado em programação.
 
-## Aprendizados
+## lessons learned
+
 
 Durante o desenvolvimento, pude praticar:
 
