@@ -2,11 +2,11 @@
 
 ## Sobre o projeto
 
-Este é um projeto acadêmico desenvolvido como introdução à programação em **JavaScript**, utilizando também **HTML e CSS**.
+Este é um projeto acadêmico desenvolvido como introdução à programação em JavaScript, utilizando também HTML e CSS.
 
 O projeto foi desenvolvido e finalizado por mim, em casa, como forma de praticar os conteúdos estudados e explorar, de maneira independente, os primeiros conceitos da linguagem.
 
-## Tecnologias
+## Tecnologias utilizadas
 
 - HTML
 - CSS
