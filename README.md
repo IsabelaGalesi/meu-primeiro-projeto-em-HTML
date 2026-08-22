@@ -6,7 +6,7 @@ Este é um projeto acadêmico desenvolvido como introdução à programação em
 
 O projeto foi desenvolvido e finalizado por mim, em casa, como forma de praticar os conteúdos estudados e explorar, de maneira independente, os primeiros conceitos da linguagem.
 
-## Tecnologias utilizadas
+## Tecnologias usadas
 
 - HTML
 - CSS
