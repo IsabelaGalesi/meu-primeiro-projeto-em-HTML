@@ -1,4 +1,4 @@
-# Meu Primeiro Projeto em JavaScript
+## Meu Primeiro Projeto em JavaScript
 
 ## Sobre o projeto
 
