@@ -18,7 +18,7 @@ O principal objetivo foi praticar e compreender conceitos iniciais de JavaScript
 
 Este projeto representa uma das minhas primeiras experiências com a linguagem e faz parte do meu processo de aprendizado em programação.
 
-## O que aprendi
+## Aprendizados
 
 Durante o desenvolvimento, pude praticar:
 
